@@ -31,7 +31,8 @@ https://discordapp.com/api/oauth2/authorize?client_id=BOT_ID&permissions=0&scope
 
 ---
 
-Now everything should work and you can start the bot by executing "start.bat".
+Now everything should work and you can start the bot by executing "start.bat". 
+If the start.bat crashes they probably didn't insert the tokens!
 I hope you have Windows, because I don't know what such a file is called in Linux, but if you have Linux, you have to execute the command: node main.js in the folder!
 
 ---
