@@ -19,9 +19,9 @@ Now copy your User-ID and paste it into the config.json under "ownerID".
 
 EXAMPLE:
 
- "token": "YOUR_TOKEN"
- "prefix": "-"
-  "ownerID": "YOUR_ID"
+"token": "YOUR_TOKEN"
+"prefix": "-"
+"ownerID": "YOUR_ID"
 
 Now you add your bot to your server, that you can do under your application at 0Auth2 and select Bot there and copy the link. Please replace the 0 in your link, next to "permissions=" to an 8!
 
